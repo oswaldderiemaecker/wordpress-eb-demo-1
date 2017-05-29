@@ -1,5 +1,6 @@
 [![Build Status](https://status.continuousphp.com/git-hub/oswaldderiemaecker/wordpress-eb-demo-meetup?token=e0221d1a-51a9-4eef-a788-b009b3d52e84)](https://continuousphp.com/git-hub/oswaldderiemaecker/wordpress-eb-demo-meetup)
 
+
 # WordPress Docker Development with Deployment on AWS Elastic Beanstalk
 
 - [Introduction](#introduction)
