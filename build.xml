@@ -241,7 +241,7 @@
     
     <target name="setup-production"
             description="Setup for production"
-            depends="setup-base, wp-option-site, wp-clear-cache, wp-plugins-activate, wp-copy-themes, wp-theme-activate"/>
+            depends="setup-base, db-migration, wp-option-site, wp-clear-cache, wp-plugins-activate, wp-copy-themes, wp-theme-activate"/>
 
     <target name="setup-staging"
             description="Setup for staging"
