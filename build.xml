@@ -224,7 +224,7 @@
         <elseif>
 	  <equals arg1="${env.environment}" arg2="production" />
           <then>
-    	    <phingcall target="setup">
+    	    <phingcall target="setup-production">
             </phingcall>
           </then>
         </elseif>
